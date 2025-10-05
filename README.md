@@ -1,3 +1,7 @@
+<!-- Web Dev Banner -->
+![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
+
+
 # 💫 **Hi 👋, I'm Harsh Yadav**
 A passionate **AI & Full-Stack Developer** from India 🚀
 
@@ -16,6 +20,7 @@ A passionate **AI & Full-Stack Developer** from India 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshyadavdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harsh.12925.software@gmail.com) 
+
 
 
 <!-- Snake Game Repo View -->
