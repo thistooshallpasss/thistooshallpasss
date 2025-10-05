@@ -18,6 +18,13 @@ A passionate **AI & Full-Stack Developer** from India 🚀
 
 
 
+![GitHub followers](https://img.shields.io/github/followers/thistooshallpasss?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/thistooshallpasss?style=social)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=thistooshallpasss)
+<img src="https://komarev.com/ghpvc/?username=thistooshallpasss" alt="thistooshallpasss" />
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshyadavdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harsh.12925.software@gmail.com) 
 
